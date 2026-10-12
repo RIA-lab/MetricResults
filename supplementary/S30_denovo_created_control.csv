@@ -1,0 +1,5 @@
+metric,n_systems,n_clusters,catalytic_arm_median,control_arm_median,paired_diff_median,paired_diff_ci90_lo,paired_diff_ci90_hi,ratio_median,differs,note
+catalytic_rel_sasa_mean,30,23,0.143345,0.1315,0.027754,-0.005578,0.047843,1.227435,0,paired difference between the created-site control and the catalytic arm after repack
+catalytic_rel_sasa_max,30,23,0.21568,0.204212,0.025605,-0.042831,0.070178,1.105153,0,paired difference between the created-site control and the catalytic arm after repack
+catalytic_sasa_mean,30,23,32.109173,29.455957,6.216884,-1.249475,10.716944,1.227435,0,paired difference between the created-site control and the catalytic arm after repack
+catalytic_sasa_total,30,23,96.327518,88.36787,18.650653,-3.748424,32.150831,1.227435,0,paired difference between the created-site control and the catalytic arm after repack

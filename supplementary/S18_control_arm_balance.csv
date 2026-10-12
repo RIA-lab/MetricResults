@@ -1,0 +1,11 @@
+analysis_set,lesion_test,pairs,control_fewer_share,control_more_share,median_ratio,mean_ratio,catalytic_only_no_control,note
+53-enzyme set,catalytic lesion,212,0.198113,0.0,1.0,0.927831,,"residues perturbed in the control arm vs the catalytic arm, per (system, level); the response counts compare medians and cannot see this"
+53-enzyme set,second-shell lesion,159,0.0,0.0,1.0,1.0,16.0,"residues perturbed in the control arm vs the catalytic arm, per (system, level); the response counts compare medians and cannot see this"
+main set,catalytic lesion,563,0.246892,0.0,1.0,0.902164,7.0,"residues perturbed in the control arm vs the catalytic arm, per (system, level); the response counts compare medians and cannot see this"
+main set,second-shell lesion,437,0.0,0.0,1.0,1.0,33.0,"residues perturbed in the control arm vs the catalytic arm, per (system, level); the response counts compare medians and cannot see this"
+"main set, packing-matched controls",catalytic lesion,563,0.246892,0.0,1.0,0.902164,7.0,"residues perturbed in the control arm vs the catalytic arm, per (system, level); the response counts compare medians and cannot see this"
+"main set, packing-matched controls",second-shell lesion,437,0.0,0.0,1.0,1.0,33.0,"residues perturbed in the control arm vs the catalytic arm, per (system, level); the response counts compare medians and cannot see this"
+shortened motif (<=3 residues),catalytic lesion,561,0.074866,0.0,1.0,0.968806,6.0,"residues perturbed in the control arm vs the catalytic arm, per (system, level); the response counts compare medians and cannot see this"
+shortened motif (<=3 residues),second-shell lesion,447,0.0,0.0,1.0,1.0,27.0,"residues perturbed in the control arm vs the catalytic arm, per (system, level); the response counts compare medians and cannot see this"
+"de novo set, created-site control",catalytic lesion,120,0.0,0.0,1.0,1.0,,"residues perturbed in the control arm vs the catalytic arm, per (system, level); the response counts compare medians and cannot see this"
+"de novo set, created-site control",second-shell lesion,58,0.0,0.0,1.0,1.0,18.0,"residues perturbed in the control arm vs the catalytic arm, per (system, level); the response counts compare medians and cannot see this"

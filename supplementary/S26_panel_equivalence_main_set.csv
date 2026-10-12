@@ -1,0 +1,3 @@
+analysis_set,metric_set,n_metrics,geomean_sr,ci90_lo,ci90_hi,median_sr,n_clusters,status,note
+"main set, packing-matched controls",main-set metrics only,27,1.0746,0.9584,1.1782,1.1406,74,complete,metrics with a defined SR (both arms move); nested bootstrap by EC sub-subclass
+main set,main-set metrics only,27,1.0215,0.9087,1.1249,1.1096,74,complete,metrics with a defined SR (both arms move); nested bootstrap by EC sub-subclass
