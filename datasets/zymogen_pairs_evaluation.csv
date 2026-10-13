@@ -1,0 +1,22 @@
+uniprot_accession,uniprot_entry_name,protein_name,organism,ec_number,peptidase_class,propeptide_positions,mature_chain_positions,reviewed
+P00746,CFAD_HUMAN,Complement factor D,Homo sapiens,3.4.21.46,serine,21-25,26-253,yes
+P00760,TRY1_BOVIN,Serine protease 1,Bos taurus,3.4.21.4,serine,18-23,24-246;24-148;149-246,yes
+P00761,TRYP_PIG,Trypsin,Sus scrofa,3.4.21.4,serine,1-8,9-231,yes
+P00772,CELA1_PIG,Chymotrypsin-like elastase family member 1,Sus scrofa,3.4.21.36,serine,17-26,27-266,yes
+P00778,PRLA_LYSEN,Alpha-lytic protease,Lysobacter enzymogenes,3.4.21.12,serine,25-199,200-397,yes
+P00787,CATB_RAT,Cathepsin B,Rattus norvegicus,3.4.22.1,cysteine,18-79;334-339,80-333;80-126;129-333,yes
+P06873,PRTK_PARAQ,Proteinase K,Parengyodontium album,3.4.21.64,serine,16-105,106-384,yes
+P07711,CATL1_HUMAN,Procathepsin L,Homo sapiens,3.4.22.15,cysteine,18-113;289-291,114-333;114-288;292-333,yes
+P0A6G7,CLPP_ECOLI,ATP-dependent Clp protease proteolytic subunit,Escherichia coli (strain K12),3.4.21.92,serine,1-14,15-207,yes
+P0C0J0,SPEB_STRPY,Streptopain,Streptococcus pyogenes,3.4.22.10,cysteine,28-145,146-398,yes
+P11838,CARP_CRYPA,Endothiapepsin,Cryphonectria parasitica,3.4.23.22,aspartic,21-89,90-419,yes
+P23946,CMA1_HUMAN,Chymase,Homo sapiens,3.4.21.39,serine,20-21,22-247,yes
+P25774,CATS_HUMAN,Cathepsin S,Homo sapiens,3.4.22.27,cysteine,17-114,115-331,yes
+P25779,CYSP_TRYCR,Cruzipain,Trypanosoma cruzi,3.4.22.51,cysteine,19-122,123-467,yes
+P35031,TRY1_SALSA,Trypsin-1,Salmo salar,3.4.21.4,serine,16-20,21-242,yes
+P43235,CATK_HUMAN,Cathepsin K,Homo sapiens,3.4.22.38,cysteine,16-114,115-329,yes
+P46925,PLM2_PLAFX,Plasmepsin II,Plasmodium falciparum (isolate HB3),3.4.23.39,aspartic,1-124,125-453,yes
+P55212,CASP6_HUMAN,Caspase-6,Homo sapiens,3.4.22.59,cysteine,1-23;180-193,24-179;194-293,yes
+P56817,BACE1_HUMAN,Beta-secretase 1,Homo sapiens,3.4.23.46,aspartic,22-45,46-501,yes
+Q14790,CASP8_HUMAN,Caspase-8,Homo sapiens,3.4.22.61,cysteine,1-216;375-384,217-374;385-479,yes
+Q8I6V3,PLM2_PLAF7,Plasmepsin II,Plasmodium falciparum (isolate 3D7),3.4.23.39,aspartic,1-124,125-453,yes

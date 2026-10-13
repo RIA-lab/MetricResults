@@ -1,0 +1,75 @@
+arm,mcsa_id,pdb_id,assembly,uniprot_accession,design_model_file,enzyme_name
+natural,9,5A1I,1,P31153,,methionine adenosyltransferase
+natural,24,1NZY,2,A5JTM5,,4-chlorobenzoyl-CoA dehalogenase
+natural,50,1DBT,1,P25971,,orotidine-5'-phosphate decarboxylase
+natural,74,1BS1,1,P13000,,dethiobiotin synthase
+natural,86,1BG0,1,P51541,,arginine kinase
+natural,94,1WAB,1,Q29460,,1-alkyl-2-acetylglycerophosphocholine esterase
+natural,109,1D3G,1,Q02127,,dihydroorotate oxidase (class II)
+natural,112,3DFR,1,P00381,,dihydrofolate reductase (bacterial)
+natural,135,1SDW,1,P14925,,peptidylglycine monooxygenase
+natural,151,1Q0N,1,P26281,,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase
+natural,154,1HY3,1,P49888,,estrone sulfotransferase
+natural,157,1QH5,1,Q16775,,hydroxyacylglutathione hydrolase
+natural,188,1XEL,1,P09147,,UDP-glucose 4-epimerase
+natural,199,1GSA,2,P04425,,glutathione synthase (prokaryotic)
+natural,217,1SC9,2,P52704,,(S)-hydroxynitrile lyase
+natural,222,2QUT,1,P00883,,fructose-bisphosphate aldolase (Class I)
+natural,226,1QRR,1,O48917,,UDP-sulfoquinovose synthase
+natural,227,1E6U,1,P32055,,GDP-L-fucose synthase
+natural,229,2A84,1,P9WIL5,,pantoate-beta-alanine ligase
+natural,255,1MG5,1,P00334,,alcohol dehydrogenase (SDR type)
+natural,263,3KB9,1,Q9K499,,epi-isozizaene synthase
+natural,269,3DGB,2,Q4K9X1,,muconate cycloisomerase (syn)
+natural,316,1J21,1,P59846,,argininosuccinate synthetase
+natural,330,2ZR8,1,O59791,,serine racemase
+natural,345,3BPT,1,Q6NVY1,,3-hydroxyisobutyryl-CoA hydrolase
+natural,364,2TPS,1,P39594,,thiamine phosphate synthase
+natural,375,4TS9,1,P0ABP8,,Purine nucleoside phosphorylase DeoD-type
+natural,388,5HRC,1,A0A0H3JGH6,,aspartate racemase (CT type)
+natural,407,2O7R,1,Q0ZPV7,,carboxylesterase
+natural,432,1BVV,1,P09850,,"endo-1,4-beta-xylanase (glycosyl hydrolase 11 family)"
+natural,472,1S95,1,P53041,,serine/threonine-protein phosphatase 5
+natural,504,1QHF,1,P00950,,"phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)"
+natural,524,1Z4R,1,Q92830,,histone acetyltransferase (GCN5 family)
+natural,541,1U3F,1,P75430,,5-formyltetrahydrofolate cyclo-ligase
+natural,572,1O9I,1,P60355,,catalase (manganese dependent)
+natural,642,1NSF,1,P18708,,vesicle-fusing ATPase
+natural,648,1SNN,1,Q60364,,"3,4-dihydroxy-2-butanone-4-phosphate synthase"
+natural,665,1EZ1,1,P33221,,Formate-dependent phosphoribosylglycinamide formyltransferase
+natural,689,1R6W,1,P29208,,o-succinylbenzoate synthase
+natural,712,1XA8,1,Q51669,,S-(hydroxymethyl)glutathione synthase
+natural,725,2ACU,1,P15121,,aldehyde reductase
+natural,732,1XS1,1,P28248,,dCTP deaminase
+natural,795,1WNW,2,P71119,,heme oxygenase (biliverdin-producing)
+natural,812,1Q91,1,Q9NPB1,,5'-nucleotidase (mitochondrial)
+natural,848,1ELU,1,P73679,,L-cysteine/cystine lyase
+natural,867,1OE8,1,P30114,,Glutathione S-transferase class-μ
+natural,883,2DLN,1,P07862,,D-alanine---D-alanine ligase
+natural,904,1QGX,1,P32179,,"3'(2'),5'-bisphosphate nucleotidase"
+natural,934,3CLA,1,P00484,,chloramphenicol O-acetyltransferase
+natural,940,4H2H,1,Q0FPQ4,,4-hydroxyproline betaine 2-epimerase
+natural,942,2OLN,1,Q9X9P9,,NikD
+natural,943,4NJK,1,A0A0H3KB22,,7-carboxy-7-deazaguanine synthase
+natural,956,2ZR8,1,O59791,,L-serine ammonia-lyase
+natural,959,3DG6,1,A0QTN8,,muconate cycloisomerase (anti)
+natural,963,4EAY,1,P24215,,mannonate dehydratase (uxuA)
+natural,965,5VSM,1,Q8CBB9,,Viperin
+natural,967,3UXJ,1,Q9KTK0,,NADPH-dependent 7-cyano-7-deazaguanine reductase
+natural,979,3MVF,1,Q94734,,nitrite dismutase
+natural,999,1T8U,1,Q9Y663,,heparan sulfate glucosamine 3-O-sulfotransferase
+designed,,,,,design_campaign1__A1_var1.pdb,
+designed,,,,,design_campaign1__A1_var4.pdb,
+designed,,,,,design_campaign1__A1_var5.pdb,
+designed,,,,,design_campaign1__A1_var6.pdb,
+designed,,,,,design_campaign1__A6.pdb,
+designed,,,,,design_campaign1__B7.pdb,
+designed,,,,,design_campaign1__C4.pdb,
+designed,,,,,design_campaign1__E4.pdb,
+designed,,,,,design_campaign2__B10.pdb,
+designed,,,,,design_campaign2__B5.pdb,
+designed,,,,,design_campaign2__C5_ZETA_4.pdb,
+designed,,,,,design_campaign2__D9.pdb,
+designed,,,,,design_campaign2__E4.pdb,
+designed,,,,,design_campaign2__F12.pdb,
+designed,,,,,design_campaign2__H6_ZETA_3.pdb,

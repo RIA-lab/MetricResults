@@ -1,0 +1,583 @@
+dataset,id_type,accession,label
+zymogen_pairs_evaluation,UniProt,P00746,Complement factor D
+zymogen_pairs_evaluation,UniProt,P00760,Serine protease 1
+zymogen_pairs_evaluation,UniProt,P00761,Trypsin
+zymogen_pairs_evaluation,UniProt,P00772,Chymotrypsin-like elastase family member 1
+zymogen_pairs_evaluation,UniProt,P00778,Alpha-lytic protease
+zymogen_pairs_evaluation,UniProt,P00787,Cathepsin B
+zymogen_pairs_evaluation,UniProt,P06873,Proteinase K
+zymogen_pairs_evaluation,UniProt,P07711,Procathepsin L
+zymogen_pairs_evaluation,UniProt,P0A6G7,ATP-dependent Clp protease proteolytic subunit
+zymogen_pairs_evaluation,UniProt,P0C0J0,Streptopain
+zymogen_pairs_evaluation,UniProt,P11838,Endothiapepsin
+zymogen_pairs_evaluation,UniProt,P23946,Chymase
+zymogen_pairs_evaluation,UniProt,P25774,Cathepsin S
+zymogen_pairs_evaluation,UniProt,P25779,Cruzipain
+zymogen_pairs_evaluation,UniProt,P35031,Trypsin-1
+zymogen_pairs_evaluation,UniProt,P43235,Cathepsin K
+zymogen_pairs_evaluation,UniProt,P46925,Plasmepsin II
+zymogen_pairs_evaluation,UniProt,P55212,Caspase-6
+zymogen_pairs_evaluation,UniProt,P56817,Beta-secretase 1
+zymogen_pairs_evaluation,UniProt,Q14790,Caspase-8
+zymogen_pairs_evaluation,UniProt,Q8I6V3,Plasmepsin II
+plated_designs,design model,design_campaign1__A1_ZETA_1,reported kcat/KM
+plated_designs,design model,design_campaign1__A2,
+plated_designs,design model,design_campaign1__A3,
+plated_designs,design model,design_campaign1__A4,
+plated_designs,design model,design_campaign1__A5,
+plated_designs,design model,design_campaign1__A6,
+plated_designs,design model,design_campaign1__A7,
+plated_designs,design model,design_campaign1__A8,reported kcat/KM
+plated_designs,design model,design_campaign1__A9,
+plated_designs,design model,design_campaign1__A10,
+plated_designs,design model,design_campaign1__A11,
+plated_designs,design model,design_campaign1__A12,
+plated_designs,design model,design_campaign1__B1,
+plated_designs,design model,design_campaign1__B2,
+plated_designs,design model,design_campaign1__B3,
+plated_designs,design model,design_campaign1__B4,
+plated_designs,design model,design_campaign1__B5,
+plated_designs,design model,design_campaign1__B6,
+plated_designs,design model,design_campaign1__B7,
+plated_designs,design model,design_campaign1__B8,
+plated_designs,design model,design_campaign1__B9,reported kcat/KM
+plated_designs,design model,design_campaign1__B10,
+plated_designs,design model,design_campaign1__B11,
+plated_designs,design model,design_campaign1__B12,
+plated_designs,design model,design_campaign1__C1,
+plated_designs,design model,design_campaign1__C2,
+plated_designs,design model,design_campaign1__C3,
+plated_designs,design model,design_campaign1__C4,reported kcat/KM
+plated_designs,design model,design_campaign1__C5,
+plated_designs,design model,design_campaign1__C6,
+plated_designs,design model,design_campaign1__C7,
+plated_designs,design model,design_campaign1__C8,
+plated_designs,design model,design_campaign1__C9,
+plated_designs,design model,design_campaign1__C10,
+plated_designs,design model,design_campaign1__C11,
+plated_designs,design model,design_campaign1__C12,
+plated_designs,design model,design_campaign1__D1,
+plated_designs,design model,design_campaign1__D2,
+plated_designs,design model,design_campaign1__D3,
+plated_designs,design model,design_campaign1__D4,
+plated_designs,design model,design_campaign1__D5,
+plated_designs,design model,design_campaign1__D6,
+plated_designs,design model,design_campaign1__D7,
+plated_designs,design model,design_campaign1__D8,
+plated_designs,design model,design_campaign1__D9,
+plated_designs,design model,design_campaign1__D10,
+plated_designs,design model,design_campaign1__D11,
+plated_designs,design model,design_campaign1__D12,
+plated_designs,design model,design_campaign1__E1,
+plated_designs,design model,design_campaign1__E2,
+plated_designs,design model,design_campaign1__E3,
+plated_designs,design model,design_campaign1__E4,
+plated_designs,design model,design_campaign1__E5,
+plated_designs,design model,design_campaign1__E6,
+plated_designs,design model,design_campaign1__E7,
+plated_designs,design model,design_campaign1__E8,
+plated_designs,design model,design_campaign1__E9,
+plated_designs,design model,design_campaign1__E10,
+plated_designs,design model,design_campaign1__E11,
+plated_designs,design model,design_campaign1__E12,
+plated_designs,design model,design_campaign1__F1,
+plated_designs,design model,design_campaign1__F2,
+plated_designs,design model,design_campaign1__F3,
+plated_designs,design model,design_campaign1__F4,
+plated_designs,design model,design_campaign1__F5,
+plated_designs,design model,design_campaign1__F6,
+plated_designs,design model,design_campaign1__F7,reported kcat/KM
+plated_designs,design model,design_campaign1__F8,
+plated_designs,design model,design_campaign1__F9,
+plated_designs,design model,design_campaign1__F10,
+plated_designs,design model,design_campaign1__F11,
+plated_designs,design model,design_campaign1__F12,
+plated_designs,design model,design_campaign1__G1,
+plated_designs,design model,design_campaign1__G2,
+plated_designs,design model,design_campaign1__G3,
+plated_designs,design model,design_campaign1__G4,
+plated_designs,design model,design_campaign1__G5,
+plated_designs,design model,design_campaign1__G6,
+plated_designs,design model,design_campaign1__G7,
+plated_designs,design model,design_campaign1__G8,
+plated_designs,design model,design_campaign1__G9,
+plated_designs,design model,design_campaign1__G10,
+plated_designs,design model,design_campaign1__G11,
+plated_designs,design model,design_campaign1__G12,
+plated_designs,design model,design_campaign1__H1,
+plated_designs,design model,design_campaign1__H2,
+plated_designs,design model,design_campaign1__H3,
+plated_designs,design model,design_campaign1__H4,
+plated_designs,design model,design_campaign1__H5,
+plated_designs,design model,design_campaign1__H6,
+plated_designs,design model,design_campaign1__H7,
+plated_designs,design model,design_campaign1__H8,
+plated_designs,design model,design_campaign1__H9,
+plated_designs,design model,design_campaign1__H10,
+plated_designs,design model,design_campaign1__H11,
+plated_designs,design model,design_campaign1__H12,
+plated_designs,design model,design_campaign2__A1,
+plated_designs,design model,design_campaign2__A2,
+plated_designs,design model,design_campaign2__A3,
+plated_designs,design model,design_campaign2__A4,
+plated_designs,design model,design_campaign2__A5,
+plated_designs,design model,design_campaign2__A6,
+plated_designs,design model,design_campaign2__A7,
+plated_designs,design model,design_campaign2__A8,
+plated_designs,design model,design_campaign2__A9,
+plated_designs,design model,design_campaign2__A10,
+plated_designs,design model,design_campaign2__A11,
+plated_designs,design model,design_campaign2__A12,
+plated_designs,design model,design_campaign2__B1,
+plated_designs,design model,design_campaign2__B2,
+plated_designs,design model,design_campaign2__B3,
+plated_designs,design model,design_campaign2__B4,
+plated_designs,design model,design_campaign2__B5,reported kcat/KM
+plated_designs,design model,design_campaign2__B6,
+plated_designs,design model,design_campaign2__B7,
+plated_designs,design model,design_campaign2__B8,
+plated_designs,design model,design_campaign2__B9,
+plated_designs,design model,design_campaign2__B10,reported kcat/KM
+plated_designs,design model,design_campaign2__B11,
+plated_designs,design model,design_campaign2__B12,
+plated_designs,design model,design_campaign2__C1,
+plated_designs,design model,design_campaign2__C2,
+plated_designs,design model,design_campaign2__C3,
+plated_designs,design model,design_campaign2__C4,
+plated_designs,design model,design_campaign2__C5_ZETA_4,reported kcat/KM
+plated_designs,design model,design_campaign2__C6,
+plated_designs,design model,design_campaign2__C7,
+plated_designs,design model,design_campaign2__C8,
+plated_designs,design model,design_campaign2__C9,
+plated_designs,design model,design_campaign2__C10,
+plated_designs,design model,design_campaign2__C11,
+plated_designs,design model,design_campaign2__C12,
+plated_designs,design model,design_campaign2__D1,
+plated_designs,design model,design_campaign2__D2,
+plated_designs,design model,design_campaign2__D3,
+plated_designs,design model,design_campaign2__D4,
+plated_designs,design model,design_campaign2__D5,
+plated_designs,design model,design_campaign2__D6,
+plated_designs,design model,design_campaign2__D7,
+plated_designs,design model,design_campaign2__D8,
+plated_designs,design model,design_campaign2__D9,reported kcat/KM
+plated_designs,design model,design_campaign2__D10,
+plated_designs,design model,design_campaign2__D11,
+plated_designs,design model,design_campaign2__D12,
+plated_designs,design model,design_campaign2__E1,
+plated_designs,design model,design_campaign2__E2,
+plated_designs,design model,design_campaign2__E3,
+plated_designs,design model,design_campaign2__E4,
+plated_designs,design model,design_campaign2__E5,
+plated_designs,design model,design_campaign2__E6,
+plated_designs,design model,design_campaign2__E7,
+plated_designs,design model,design_campaign2__E8,
+plated_designs,design model,design_campaign2__E9,
+plated_designs,design model,design_campaign2__E10,
+plated_designs,design model,design_campaign2__E11,
+plated_designs,design model,design_campaign2__E12,
+plated_designs,design model,design_campaign2__F1,
+plated_designs,design model,design_campaign2__F2,reported kcat/KM
+plated_designs,design model,design_campaign2__F3,
+plated_designs,design model,design_campaign2__F4,
+plated_designs,design model,design_campaign2__F5,
+plated_designs,design model,design_campaign2__F6,
+plated_designs,design model,design_campaign2__F7,
+plated_designs,design model,design_campaign2__F8,reported kcat/KM
+plated_designs,design model,design_campaign2__F9,
+plated_designs,design model,design_campaign2__F10,
+plated_designs,design model,design_campaign2__F11,reported kcat/KM
+plated_designs,design model,design_campaign2__F12,reported kcat/KM
+plated_designs,design model,design_campaign2__G1,
+plated_designs,design model,design_campaign2__G2,
+plated_designs,design model,design_campaign2__G3,
+plated_designs,design model,design_campaign2__G4,
+plated_designs,design model,design_campaign2__G5,
+plated_designs,design model,design_campaign2__G6,
+plated_designs,design model,design_campaign2__G7,
+plated_designs,design model,design_campaign2__G8,
+plated_designs,design model,design_campaign2__G9,
+plated_designs,design model,design_campaign2__G10,
+plated_designs,design model,design_campaign2__G11,
+plated_designs,design model,design_campaign2__G12,
+plated_designs,design model,design_campaign2__H1,reported kcat/KM
+plated_designs,design model,design_campaign2__H2,
+plated_designs,design model,design_campaign2__H3,
+plated_designs,design model,design_campaign2__H4,
+plated_designs,design model,design_campaign2__H5,
+plated_designs,design model,design_campaign2__H6_ZETA_3,reported kcat/KM
+plated_designs,design model,design_campaign2__H7,
+plated_designs,design model,design_campaign2__H8,
+plated_designs,design model,design_campaign2__H9,
+plated_designs,design model,design_campaign2__H10_ZETA_2,reported kcat/KM
+plated_designs,design model,design_campaign2__H11,
+plated_designs,design model,design_campaign2__H12,
+plated_designs,PDB,9PYJ,crystal structures of the plated design ZETA_2 (apo; Zn(II)-bound)
+plated_designs,PDB,9PYL,crystal structures of the plated design ZETA_2 (apo; Zn(II)-bound)
+substrate_swap_enzymes,PDB,5A1I,methionine adenosyltransferase (evaluation set)
+substrate_swap_enzymes,UniProt,P31153,methionine adenosyltransferase (evaluation set)
+substrate_swap_enzymes,M-CSA,9,methionine adenosyltransferase (evaluation set)
+substrate_swap_enzymes,PDB,1NZY,4-chlorobenzoyl-CoA dehalogenase (excluded)
+substrate_swap_enzymes,UniProt,A5JTM5,4-chlorobenzoyl-CoA dehalogenase (excluded)
+substrate_swap_enzymes,M-CSA,24,4-chlorobenzoyl-CoA dehalogenase (excluded)
+substrate_swap_enzymes,PDB,1DBT,orotidine-5'-phosphate decarboxylase (evaluation set)
+substrate_swap_enzymes,UniProt,P25971,orotidine-5'-phosphate decarboxylase (evaluation set)
+substrate_swap_enzymes,M-CSA,50,orotidine-5'-phosphate decarboxylase (evaluation set)
+substrate_swap_enzymes,PDB,1BS1,dethiobiotin synthase (evaluation set)
+substrate_swap_enzymes,UniProt,P13000,dethiobiotin synthase (evaluation set)
+substrate_swap_enzymes,M-CSA,74,dethiobiotin synthase (evaluation set)
+substrate_swap_enzymes,PDB,1BG0,arginine kinase (evaluation set)
+substrate_swap_enzymes,UniProt,P51541,arginine kinase (evaluation set)
+substrate_swap_enzymes,M-CSA,86,arginine kinase (evaluation set)
+substrate_swap_enzymes,PDB,1WAB,1-alkyl-2-acetylglycerophosphocholine esterase (evaluation set)
+substrate_swap_enzymes,UniProt,Q29460,1-alkyl-2-acetylglycerophosphocholine esterase (evaluation set)
+substrate_swap_enzymes,M-CSA,94,1-alkyl-2-acetylglycerophosphocholine esterase (evaluation set)
+substrate_swap_enzymes,PDB,1D3G,dihydroorotate oxidase (class II) (evaluation set)
+substrate_swap_enzymes,UniProt,Q02127,dihydroorotate oxidase (class II) (evaluation set)
+substrate_swap_enzymes,M-CSA,109,dihydroorotate oxidase (class II) (evaluation set)
+substrate_swap_enzymes,PDB,3DFR,dihydrofolate reductase (bacterial) (excluded)
+substrate_swap_enzymes,UniProt,P00381,dihydrofolate reductase (bacterial) (excluded)
+substrate_swap_enzymes,M-CSA,112,dihydrofolate reductase (bacterial) (excluded)
+substrate_swap_enzymes,PDB,1SDW,peptidylglycine monooxygenase (evaluation set)
+substrate_swap_enzymes,UniProt,P14925,peptidylglycine monooxygenase (evaluation set)
+substrate_swap_enzymes,M-CSA,135,peptidylglycine monooxygenase (evaluation set)
+substrate_swap_enzymes,PDB,1Q0N,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase (evaluation set)
+substrate_swap_enzymes,UniProt,P26281,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase (evaluation set)
+substrate_swap_enzymes,M-CSA,151,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase (evaluation set)
+substrate_swap_enzymes,PDB,1HY3,estrone sulfotransferase (evaluation set)
+substrate_swap_enzymes,UniProt,P49888,estrone sulfotransferase (evaluation set)
+substrate_swap_enzymes,M-CSA,154,estrone sulfotransferase (evaluation set)
+substrate_swap_enzymes,PDB,1QH5,hydroxyacylglutathione hydrolase (evaluation set)
+substrate_swap_enzymes,UniProt,Q16775,hydroxyacylglutathione hydrolase (evaluation set)
+substrate_swap_enzymes,M-CSA,157,hydroxyacylglutathione hydrolase (evaluation set)
+substrate_swap_enzymes,PDB,1XEL,UDP-glucose 4-epimerase (evaluation set)
+substrate_swap_enzymes,UniProt,P09147,UDP-glucose 4-epimerase (evaluation set)
+substrate_swap_enzymes,M-CSA,188,UDP-glucose 4-epimerase (evaluation set)
+substrate_swap_enzymes,PDB,1GSA,glutathione synthase (prokaryotic) (evaluation set)
+substrate_swap_enzymes,UniProt,P04425,glutathione synthase (prokaryotic) (evaluation set)
+substrate_swap_enzymes,M-CSA,199,glutathione synthase (prokaryotic) (evaluation set)
+substrate_swap_enzymes,PDB,1SC9,(S)-hydroxynitrile lyase (evaluation set)
+substrate_swap_enzymes,UniProt,P52704,(S)-hydroxynitrile lyase (evaluation set)
+substrate_swap_enzymes,M-CSA,217,(S)-hydroxynitrile lyase (evaluation set)
+substrate_swap_enzymes,PDB,2QUT,fructose-bisphosphate aldolase (Class I) (evaluation set)
+substrate_swap_enzymes,UniProt,P00883,fructose-bisphosphate aldolase (Class I) (evaluation set)
+substrate_swap_enzymes,M-CSA,222,fructose-bisphosphate aldolase (Class I) (evaluation set)
+substrate_swap_enzymes,PDB,1QRR,UDP-sulfoquinovose synthase (evaluation set)
+substrate_swap_enzymes,UniProt,O48917,UDP-sulfoquinovose synthase (evaluation set)
+substrate_swap_enzymes,M-CSA,226,UDP-sulfoquinovose synthase (evaluation set)
+substrate_swap_enzymes,PDB,1E6U,GDP-L-fucose synthase (evaluation set)
+substrate_swap_enzymes,UniProt,P32055,GDP-L-fucose synthase (evaluation set)
+substrate_swap_enzymes,M-CSA,227,GDP-L-fucose synthase (evaluation set)
+substrate_swap_enzymes,PDB,2A84,pantoate-beta-alanine ligase (evaluation set)
+substrate_swap_enzymes,UniProt,P9WIL5,pantoate-beta-alanine ligase (evaluation set)
+substrate_swap_enzymes,M-CSA,229,pantoate-beta-alanine ligase (evaluation set)
+substrate_swap_enzymes,PDB,1MG5,alcohol dehydrogenase (SDR type) (evaluation set)
+substrate_swap_enzymes,UniProt,P00334,alcohol dehydrogenase (SDR type) (evaluation set)
+substrate_swap_enzymes,M-CSA,255,alcohol dehydrogenase (SDR type) (evaluation set)
+substrate_swap_enzymes,PDB,3KB9,epi-isozizaene synthase (evaluation set)
+substrate_swap_enzymes,UniProt,Q9K499,epi-isozizaene synthase (evaluation set)
+substrate_swap_enzymes,M-CSA,263,epi-isozizaene synthase (evaluation set)
+substrate_swap_enzymes,PDB,3DGB,muconate cycloisomerase (syn) (evaluation set)
+substrate_swap_enzymes,UniProt,Q4K9X1,muconate cycloisomerase (syn) (evaluation set)
+substrate_swap_enzymes,M-CSA,269,muconate cycloisomerase (syn) (evaluation set)
+substrate_swap_enzymes,PDB,1J21,argininosuccinate synthetase (evaluation set)
+substrate_swap_enzymes,UniProt,P59846,argininosuccinate synthetase (evaluation set)
+substrate_swap_enzymes,M-CSA,316,argininosuccinate synthetase (evaluation set)
+substrate_swap_enzymes,PDB,2ZR8,serine racemase (evaluation set)
+substrate_swap_enzymes,UniProt,O59791,serine racemase (evaluation set)
+substrate_swap_enzymes,M-CSA,330,serine racemase (evaluation set)
+substrate_swap_enzymes,PDB,3BPT,3-hydroxyisobutyryl-CoA hydrolase (evaluation set)
+substrate_swap_enzymes,UniProt,Q6NVY1,3-hydroxyisobutyryl-CoA hydrolase (evaluation set)
+substrate_swap_enzymes,M-CSA,345,3-hydroxyisobutyryl-CoA hydrolase (evaluation set)
+substrate_swap_enzymes,PDB,2TPS,thiamine phosphate synthase (evaluation set)
+substrate_swap_enzymes,UniProt,P39594,thiamine phosphate synthase (evaluation set)
+substrate_swap_enzymes,M-CSA,364,thiamine phosphate synthase (evaluation set)
+substrate_swap_enzymes,PDB,4TS9,Purine nucleoside phosphorylase DeoD-type (evaluation set)
+substrate_swap_enzymes,UniProt,P0ABP8,Purine nucleoside phosphorylase DeoD-type (evaluation set)
+substrate_swap_enzymes,M-CSA,375,Purine nucleoside phosphorylase DeoD-type (evaluation set)
+substrate_swap_enzymes,PDB,5HRC,aspartate racemase (CT type) (excluded)
+substrate_swap_enzymes,UniProt,A0A0H3JGH6,aspartate racemase (CT type) (excluded)
+substrate_swap_enzymes,M-CSA,388,aspartate racemase (CT type) (excluded)
+substrate_swap_enzymes,PDB,2O7R,carboxylesterase (evaluation set)
+substrate_swap_enzymes,UniProt,Q0ZPV7,carboxylesterase (evaluation set)
+substrate_swap_enzymes,M-CSA,407,carboxylesterase (evaluation set)
+substrate_swap_enzymes,PDB,1BVV,"endo-1,4-beta-xylanase (glycosyl hydrolase 11 family) (evaluation set)"
+substrate_swap_enzymes,UniProt,P09850,"endo-1,4-beta-xylanase (glycosyl hydrolase 11 family) (evaluation set)"
+substrate_swap_enzymes,M-CSA,432,"endo-1,4-beta-xylanase (glycosyl hydrolase 11 family) (evaluation set)"
+substrate_swap_enzymes,PDB,1S95,serine/threonine-protein phosphatase 5 (evaluation set)
+substrate_swap_enzymes,UniProt,P53041,serine/threonine-protein phosphatase 5 (evaluation set)
+substrate_swap_enzymes,M-CSA,472,serine/threonine-protein phosphatase 5 (evaluation set)
+substrate_swap_enzymes,PDB,1QHF,"phosphoglycerate mutase (2,3-diphosphoglycerate-dependent) (evaluation set)"
+substrate_swap_enzymes,UniProt,P00950,"phosphoglycerate mutase (2,3-diphosphoglycerate-dependent) (evaluation set)"
+substrate_swap_enzymes,M-CSA,504,"phosphoglycerate mutase (2,3-diphosphoglycerate-dependent) (evaluation set)"
+substrate_swap_enzymes,PDB,1Z4R,histone acetyltransferase (GCN5 family) (evaluation set)
+substrate_swap_enzymes,UniProt,Q92830,histone acetyltransferase (GCN5 family) (evaluation set)
+substrate_swap_enzymes,M-CSA,524,histone acetyltransferase (GCN5 family) (evaluation set)
+substrate_swap_enzymes,PDB,1U3F,5-formyltetrahydrofolate cyclo-ligase (evaluation set)
+substrate_swap_enzymes,UniProt,P75430,5-formyltetrahydrofolate cyclo-ligase (evaluation set)
+substrate_swap_enzymes,M-CSA,541,5-formyltetrahydrofolate cyclo-ligase (evaluation set)
+substrate_swap_enzymes,PDB,1O9I,catalase (manganese dependent) (evaluation set)
+substrate_swap_enzymes,UniProt,P60355,catalase (manganese dependent) (evaluation set)
+substrate_swap_enzymes,M-CSA,572,catalase (manganese dependent) (evaluation set)
+substrate_swap_enzymes,PDB,1NSF,vesicle-fusing ATPase (evaluation set)
+substrate_swap_enzymes,UniProt,P18708,vesicle-fusing ATPase (evaluation set)
+substrate_swap_enzymes,M-CSA,642,vesicle-fusing ATPase (evaluation set)
+substrate_swap_enzymes,PDB,1SNN,"3,4-dihydroxy-2-butanone-4-phosphate synthase (evaluation set)"
+substrate_swap_enzymes,UniProt,Q60364,"3,4-dihydroxy-2-butanone-4-phosphate synthase (evaluation set)"
+substrate_swap_enzymes,M-CSA,648,"3,4-dihydroxy-2-butanone-4-phosphate synthase (evaluation set)"
+substrate_swap_enzymes,PDB,1EZ1,Formate-dependent phosphoribosylglycinamide formyltransferase (evaluation set)
+substrate_swap_enzymes,UniProt,P33221,Formate-dependent phosphoribosylglycinamide formyltransferase (evaluation set)
+substrate_swap_enzymes,M-CSA,665,Formate-dependent phosphoribosylglycinamide formyltransferase (evaluation set)
+substrate_swap_enzymes,PDB,1R6W,o-succinylbenzoate synthase (evaluation set)
+substrate_swap_enzymes,UniProt,P29208,o-succinylbenzoate synthase (evaluation set)
+substrate_swap_enzymes,M-CSA,689,o-succinylbenzoate synthase (evaluation set)
+substrate_swap_enzymes,PDB,1XA8,S-(hydroxymethyl)glutathione synthase (evaluation set)
+substrate_swap_enzymes,UniProt,Q51669,S-(hydroxymethyl)glutathione synthase (evaluation set)
+substrate_swap_enzymes,M-CSA,712,S-(hydroxymethyl)glutathione synthase (evaluation set)
+substrate_swap_enzymes,PDB,2ACU,aldehyde reductase (evaluation set)
+substrate_swap_enzymes,UniProt,P15121,aldehyde reductase (evaluation set)
+substrate_swap_enzymes,M-CSA,725,aldehyde reductase (evaluation set)
+substrate_swap_enzymes,PDB,1XS1,dCTP deaminase (evaluation set)
+substrate_swap_enzymes,UniProt,P28248,dCTP deaminase (evaluation set)
+substrate_swap_enzymes,M-CSA,732,dCTP deaminase (evaluation set)
+substrate_swap_enzymes,PDB,1WNW,heme oxygenase (biliverdin-producing) (excluded)
+substrate_swap_enzymes,UniProt,P71119,heme oxygenase (biliverdin-producing) (excluded)
+substrate_swap_enzymes,M-CSA,795,heme oxygenase (biliverdin-producing) (excluded)
+substrate_swap_enzymes,PDB,1Q91,5'-nucleotidase (mitochondrial) (evaluation set)
+substrate_swap_enzymes,UniProt,Q9NPB1,5'-nucleotidase (mitochondrial) (evaluation set)
+substrate_swap_enzymes,M-CSA,812,5'-nucleotidase (mitochondrial) (evaluation set)
+substrate_swap_enzymes,PDB,1ELU,L-cysteine/cystine lyase (evaluation set)
+substrate_swap_enzymes,UniProt,P73679,L-cysteine/cystine lyase (evaluation set)
+substrate_swap_enzymes,M-CSA,848,L-cysteine/cystine lyase (evaluation set)
+substrate_swap_enzymes,PDB,1OE8,Glutathione S-transferase class-μ (evaluation set)
+substrate_swap_enzymes,UniProt,P30114,Glutathione S-transferase class-μ (evaluation set)
+substrate_swap_enzymes,M-CSA,867,Glutathione S-transferase class-μ (evaluation set)
+substrate_swap_enzymes,PDB,2DLN,D-alanine---D-alanine ligase (evaluation set)
+substrate_swap_enzymes,UniProt,P07862,D-alanine---D-alanine ligase (evaluation set)
+substrate_swap_enzymes,M-CSA,883,D-alanine---D-alanine ligase (evaluation set)
+substrate_swap_enzymes,PDB,1QGX,"3'(2'),5'-bisphosphate nucleotidase (evaluation set)"
+substrate_swap_enzymes,UniProt,P32179,"3'(2'),5'-bisphosphate nucleotidase (evaluation set)"
+substrate_swap_enzymes,M-CSA,904,"3'(2'),5'-bisphosphate nucleotidase (evaluation set)"
+substrate_swap_enzymes,PDB,3CLA,chloramphenicol O-acetyltransferase (evaluation set)
+substrate_swap_enzymes,UniProt,P00484,chloramphenicol O-acetyltransferase (evaluation set)
+substrate_swap_enzymes,M-CSA,934,chloramphenicol O-acetyltransferase (evaluation set)
+substrate_swap_enzymes,PDB,4H2H,4-hydroxyproline betaine 2-epimerase (evaluation set)
+substrate_swap_enzymes,UniProt,Q0FPQ4,4-hydroxyproline betaine 2-epimerase (evaluation set)
+substrate_swap_enzymes,M-CSA,940,4-hydroxyproline betaine 2-epimerase (evaluation set)
+substrate_swap_enzymes,PDB,2OLN,NikD (evaluation set)
+substrate_swap_enzymes,UniProt,Q9X9P9,NikD (evaluation set)
+substrate_swap_enzymes,M-CSA,942,NikD (evaluation set)
+substrate_swap_enzymes,PDB,4NJK,7-carboxy-7-deazaguanine synthase (evaluation set)
+substrate_swap_enzymes,UniProt,A0A0H3KB22,7-carboxy-7-deazaguanine synthase (evaluation set)
+substrate_swap_enzymes,M-CSA,943,7-carboxy-7-deazaguanine synthase (evaluation set)
+substrate_swap_enzymes,M-CSA,956,L-serine ammonia-lyase (evaluation set)
+substrate_swap_enzymes,PDB,3DG6,muconate cycloisomerase (anti) (evaluation set)
+substrate_swap_enzymes,UniProt,A0QTN8,muconate cycloisomerase (anti) (evaluation set)
+substrate_swap_enzymes,M-CSA,959,muconate cycloisomerase (anti) (evaluation set)
+substrate_swap_enzymes,PDB,4EAY,mannonate dehydratase (uxuA) (evaluation set)
+substrate_swap_enzymes,UniProt,P24215,mannonate dehydratase (uxuA) (evaluation set)
+substrate_swap_enzymes,M-CSA,963,mannonate dehydratase (uxuA) (evaluation set)
+substrate_swap_enzymes,PDB,5VSM,Viperin (evaluation set)
+substrate_swap_enzymes,UniProt,Q8CBB9,Viperin (evaluation set)
+substrate_swap_enzymes,M-CSA,965,Viperin (evaluation set)
+substrate_swap_enzymes,PDB,3UXJ,NADPH-dependent 7-cyano-7-deazaguanine reductase (evaluation set)
+substrate_swap_enzymes,UniProt,Q9KTK0,NADPH-dependent 7-cyano-7-deazaguanine reductase (evaluation set)
+substrate_swap_enzymes,M-CSA,967,NADPH-dependent 7-cyano-7-deazaguanine reductase (evaluation set)
+substrate_swap_enzymes,PDB,3MVF,nitrite dismutase (evaluation set)
+substrate_swap_enzymes,UniProt,Q94734,nitrite dismutase (evaluation set)
+substrate_swap_enzymes,M-CSA,979,nitrite dismutase (evaluation set)
+substrate_swap_enzymes,PDB,1T8U,heparan sulfate glucosamine 3-O-sulfotransferase (evaluation set)
+substrate_swap_enzymes,UniProt,Q9Y663,heparan sulfate glucosamine 3-O-sulfotransferase (evaluation set)
+substrate_swap_enzymes,M-CSA,999,heparan sulfate glucosamine 3-O-sulfotransferase (evaluation set)
+chemistry_ladder,PDB,5A1I,methionine adenosyltransferase (natural arm)
+chemistry_ladder,UniProt,P31153,methionine adenosyltransferase (natural arm)
+chemistry_ladder,M-CSA,9,methionine adenosyltransferase (natural arm)
+chemistry_ladder,PDB,1NZY,4-chlorobenzoyl-CoA dehalogenase (natural arm)
+chemistry_ladder,UniProt,A5JTM5,4-chlorobenzoyl-CoA dehalogenase (natural arm)
+chemistry_ladder,M-CSA,24,4-chlorobenzoyl-CoA dehalogenase (natural arm)
+chemistry_ladder,PDB,1DBT,orotidine-5'-phosphate decarboxylase (natural arm)
+chemistry_ladder,UniProt,P25971,orotidine-5'-phosphate decarboxylase (natural arm)
+chemistry_ladder,M-CSA,50,orotidine-5'-phosphate decarboxylase (natural arm)
+chemistry_ladder,PDB,1BS1,dethiobiotin synthase (natural arm)
+chemistry_ladder,UniProt,P13000,dethiobiotin synthase (natural arm)
+chemistry_ladder,M-CSA,74,dethiobiotin synthase (natural arm)
+chemistry_ladder,PDB,1BG0,arginine kinase (natural arm)
+chemistry_ladder,UniProt,P51541,arginine kinase (natural arm)
+chemistry_ladder,M-CSA,86,arginine kinase (natural arm)
+chemistry_ladder,PDB,1WAB,1-alkyl-2-acetylglycerophosphocholine esterase (natural arm)
+chemistry_ladder,UniProt,Q29460,1-alkyl-2-acetylglycerophosphocholine esterase (natural arm)
+chemistry_ladder,M-CSA,94,1-alkyl-2-acetylglycerophosphocholine esterase (natural arm)
+chemistry_ladder,PDB,1D3G,dihydroorotate oxidase (class II) (natural arm)
+chemistry_ladder,UniProt,Q02127,dihydroorotate oxidase (class II) (natural arm)
+chemistry_ladder,M-CSA,109,dihydroorotate oxidase (class II) (natural arm)
+chemistry_ladder,PDB,3DFR,dihydrofolate reductase (bacterial) (natural arm)
+chemistry_ladder,UniProt,P00381,dihydrofolate reductase (bacterial) (natural arm)
+chemistry_ladder,M-CSA,112,dihydrofolate reductase (bacterial) (natural arm)
+chemistry_ladder,PDB,1SDW,peptidylglycine monooxygenase (natural arm)
+chemistry_ladder,UniProt,P14925,peptidylglycine monooxygenase (natural arm)
+chemistry_ladder,M-CSA,135,peptidylglycine monooxygenase (natural arm)
+chemistry_ladder,PDB,1Q0N,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase (natural arm)
+chemistry_ladder,UniProt,P26281,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase (natural arm)
+chemistry_ladder,M-CSA,151,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase (natural arm)
+chemistry_ladder,PDB,1HY3,estrone sulfotransferase (natural arm)
+chemistry_ladder,UniProt,P49888,estrone sulfotransferase (natural arm)
+chemistry_ladder,M-CSA,154,estrone sulfotransferase (natural arm)
+chemistry_ladder,PDB,1QH5,hydroxyacylglutathione hydrolase (natural arm)
+chemistry_ladder,UniProt,Q16775,hydroxyacylglutathione hydrolase (natural arm)
+chemistry_ladder,M-CSA,157,hydroxyacylglutathione hydrolase (natural arm)
+chemistry_ladder,PDB,1XEL,UDP-glucose 4-epimerase (natural arm)
+chemistry_ladder,UniProt,P09147,UDP-glucose 4-epimerase (natural arm)
+chemistry_ladder,M-CSA,188,UDP-glucose 4-epimerase (natural arm)
+chemistry_ladder,PDB,1GSA,glutathione synthase (prokaryotic) (natural arm)
+chemistry_ladder,UniProt,P04425,glutathione synthase (prokaryotic) (natural arm)
+chemistry_ladder,M-CSA,199,glutathione synthase (prokaryotic) (natural arm)
+chemistry_ladder,PDB,1SC9,(S)-hydroxynitrile lyase (natural arm)
+chemistry_ladder,UniProt,P52704,(S)-hydroxynitrile lyase (natural arm)
+chemistry_ladder,M-CSA,217,(S)-hydroxynitrile lyase (natural arm)
+chemistry_ladder,PDB,2QUT,fructose-bisphosphate aldolase (Class I) (natural arm)
+chemistry_ladder,UniProt,P00883,fructose-bisphosphate aldolase (Class I) (natural arm)
+chemistry_ladder,M-CSA,222,fructose-bisphosphate aldolase (Class I) (natural arm)
+chemistry_ladder,PDB,1QRR,UDP-sulfoquinovose synthase (natural arm)
+chemistry_ladder,UniProt,O48917,UDP-sulfoquinovose synthase (natural arm)
+chemistry_ladder,M-CSA,226,UDP-sulfoquinovose synthase (natural arm)
+chemistry_ladder,PDB,1E6U,GDP-L-fucose synthase (natural arm)
+chemistry_ladder,UniProt,P32055,GDP-L-fucose synthase (natural arm)
+chemistry_ladder,M-CSA,227,GDP-L-fucose synthase (natural arm)
+chemistry_ladder,PDB,2A84,pantoate-beta-alanine ligase (natural arm)
+chemistry_ladder,UniProt,P9WIL5,pantoate-beta-alanine ligase (natural arm)
+chemistry_ladder,M-CSA,229,pantoate-beta-alanine ligase (natural arm)
+chemistry_ladder,PDB,1MG5,alcohol dehydrogenase (SDR type) (natural arm)
+chemistry_ladder,UniProt,P00334,alcohol dehydrogenase (SDR type) (natural arm)
+chemistry_ladder,M-CSA,255,alcohol dehydrogenase (SDR type) (natural arm)
+chemistry_ladder,PDB,3KB9,epi-isozizaene synthase (natural arm)
+chemistry_ladder,UniProt,Q9K499,epi-isozizaene synthase (natural arm)
+chemistry_ladder,M-CSA,263,epi-isozizaene synthase (natural arm)
+chemistry_ladder,PDB,3DGB,muconate cycloisomerase (syn) (natural arm)
+chemistry_ladder,UniProt,Q4K9X1,muconate cycloisomerase (syn) (natural arm)
+chemistry_ladder,M-CSA,269,muconate cycloisomerase (syn) (natural arm)
+chemistry_ladder,PDB,1J21,argininosuccinate synthetase (natural arm)
+chemistry_ladder,UniProt,P59846,argininosuccinate synthetase (natural arm)
+chemistry_ladder,M-CSA,316,argininosuccinate synthetase (natural arm)
+chemistry_ladder,PDB,2ZR8,serine racemase (natural arm)
+chemistry_ladder,UniProt,O59791,serine racemase (natural arm)
+chemistry_ladder,M-CSA,330,serine racemase (natural arm)
+chemistry_ladder,PDB,3BPT,3-hydroxyisobutyryl-CoA hydrolase (natural arm)
+chemistry_ladder,UniProt,Q6NVY1,3-hydroxyisobutyryl-CoA hydrolase (natural arm)
+chemistry_ladder,M-CSA,345,3-hydroxyisobutyryl-CoA hydrolase (natural arm)
+chemistry_ladder,PDB,2TPS,thiamine phosphate synthase (natural arm)
+chemistry_ladder,UniProt,P39594,thiamine phosphate synthase (natural arm)
+chemistry_ladder,M-CSA,364,thiamine phosphate synthase (natural arm)
+chemistry_ladder,PDB,4TS9,Purine nucleoside phosphorylase DeoD-type (natural arm)
+chemistry_ladder,UniProt,P0ABP8,Purine nucleoside phosphorylase DeoD-type (natural arm)
+chemistry_ladder,M-CSA,375,Purine nucleoside phosphorylase DeoD-type (natural arm)
+chemistry_ladder,PDB,5HRC,aspartate racemase (CT type) (natural arm)
+chemistry_ladder,UniProt,A0A0H3JGH6,aspartate racemase (CT type) (natural arm)
+chemistry_ladder,M-CSA,388,aspartate racemase (CT type) (natural arm)
+chemistry_ladder,PDB,2O7R,carboxylesterase (natural arm)
+chemistry_ladder,UniProt,Q0ZPV7,carboxylesterase (natural arm)
+chemistry_ladder,M-CSA,407,carboxylesterase (natural arm)
+chemistry_ladder,PDB,1BVV,"endo-1,4-beta-xylanase (glycosyl hydrolase 11 family) (natural arm)"
+chemistry_ladder,UniProt,P09850,"endo-1,4-beta-xylanase (glycosyl hydrolase 11 family) (natural arm)"
+chemistry_ladder,M-CSA,432,"endo-1,4-beta-xylanase (glycosyl hydrolase 11 family) (natural arm)"
+chemistry_ladder,PDB,1S95,serine/threonine-protein phosphatase 5 (natural arm)
+chemistry_ladder,UniProt,P53041,serine/threonine-protein phosphatase 5 (natural arm)
+chemistry_ladder,M-CSA,472,serine/threonine-protein phosphatase 5 (natural arm)
+chemistry_ladder,PDB,1QHF,"phosphoglycerate mutase (2,3-diphosphoglycerate-dependent) (natural arm)"
+chemistry_ladder,UniProt,P00950,"phosphoglycerate mutase (2,3-diphosphoglycerate-dependent) (natural arm)"
+chemistry_ladder,M-CSA,504,"phosphoglycerate mutase (2,3-diphosphoglycerate-dependent) (natural arm)"
+chemistry_ladder,PDB,1Z4R,histone acetyltransferase (GCN5 family) (natural arm)
+chemistry_ladder,UniProt,Q92830,histone acetyltransferase (GCN5 family) (natural arm)
+chemistry_ladder,M-CSA,524,histone acetyltransferase (GCN5 family) (natural arm)
+chemistry_ladder,PDB,1U3F,5-formyltetrahydrofolate cyclo-ligase (natural arm)
+chemistry_ladder,UniProt,P75430,5-formyltetrahydrofolate cyclo-ligase (natural arm)
+chemistry_ladder,M-CSA,541,5-formyltetrahydrofolate cyclo-ligase (natural arm)
+chemistry_ladder,PDB,1O9I,catalase (manganese dependent) (natural arm)
+chemistry_ladder,UniProt,P60355,catalase (manganese dependent) (natural arm)
+chemistry_ladder,M-CSA,572,catalase (manganese dependent) (natural arm)
+chemistry_ladder,PDB,1NSF,vesicle-fusing ATPase (natural arm)
+chemistry_ladder,UniProt,P18708,vesicle-fusing ATPase (natural arm)
+chemistry_ladder,M-CSA,642,vesicle-fusing ATPase (natural arm)
+chemistry_ladder,PDB,1SNN,"3,4-dihydroxy-2-butanone-4-phosphate synthase (natural arm)"
+chemistry_ladder,UniProt,Q60364,"3,4-dihydroxy-2-butanone-4-phosphate synthase (natural arm)"
+chemistry_ladder,M-CSA,648,"3,4-dihydroxy-2-butanone-4-phosphate synthase (natural arm)"
+chemistry_ladder,PDB,1EZ1,Formate-dependent phosphoribosylglycinamide formyltransferase (natural arm)
+chemistry_ladder,UniProt,P33221,Formate-dependent phosphoribosylglycinamide formyltransferase (natural arm)
+chemistry_ladder,M-CSA,665,Formate-dependent phosphoribosylglycinamide formyltransferase (natural arm)
+chemistry_ladder,PDB,1R6W,o-succinylbenzoate synthase (natural arm)
+chemistry_ladder,UniProt,P29208,o-succinylbenzoate synthase (natural arm)
+chemistry_ladder,M-CSA,689,o-succinylbenzoate synthase (natural arm)
+chemistry_ladder,PDB,1XA8,S-(hydroxymethyl)glutathione synthase (natural arm)
+chemistry_ladder,UniProt,Q51669,S-(hydroxymethyl)glutathione synthase (natural arm)
+chemistry_ladder,M-CSA,712,S-(hydroxymethyl)glutathione synthase (natural arm)
+chemistry_ladder,PDB,2ACU,aldehyde reductase (natural arm)
+chemistry_ladder,UniProt,P15121,aldehyde reductase (natural arm)
+chemistry_ladder,M-CSA,725,aldehyde reductase (natural arm)
+chemistry_ladder,PDB,1XS1,dCTP deaminase (natural arm)
+chemistry_ladder,UniProt,P28248,dCTP deaminase (natural arm)
+chemistry_ladder,M-CSA,732,dCTP deaminase (natural arm)
+chemistry_ladder,PDB,1WNW,heme oxygenase (biliverdin-producing) (natural arm)
+chemistry_ladder,UniProt,P71119,heme oxygenase (biliverdin-producing) (natural arm)
+chemistry_ladder,M-CSA,795,heme oxygenase (biliverdin-producing) (natural arm)
+chemistry_ladder,PDB,1Q91,5'-nucleotidase (mitochondrial) (natural arm)
+chemistry_ladder,UniProt,Q9NPB1,5'-nucleotidase (mitochondrial) (natural arm)
+chemistry_ladder,M-CSA,812,5'-nucleotidase (mitochondrial) (natural arm)
+chemistry_ladder,PDB,1ELU,L-cysteine/cystine lyase (natural arm)
+chemistry_ladder,UniProt,P73679,L-cysteine/cystine lyase (natural arm)
+chemistry_ladder,M-CSA,848,L-cysteine/cystine lyase (natural arm)
+chemistry_ladder,PDB,1OE8,Glutathione S-transferase class-μ (natural arm)
+chemistry_ladder,UniProt,P30114,Glutathione S-transferase class-μ (natural arm)
+chemistry_ladder,M-CSA,867,Glutathione S-transferase class-μ (natural arm)
+chemistry_ladder,PDB,2DLN,D-alanine---D-alanine ligase (natural arm)
+chemistry_ladder,UniProt,P07862,D-alanine---D-alanine ligase (natural arm)
+chemistry_ladder,M-CSA,883,D-alanine---D-alanine ligase (natural arm)
+chemistry_ladder,PDB,1QGX,"3'(2'),5'-bisphosphate nucleotidase (natural arm)"
+chemistry_ladder,UniProt,P32179,"3'(2'),5'-bisphosphate nucleotidase (natural arm)"
+chemistry_ladder,M-CSA,904,"3'(2'),5'-bisphosphate nucleotidase (natural arm)"
+chemistry_ladder,PDB,3CLA,chloramphenicol O-acetyltransferase (natural arm)
+chemistry_ladder,UniProt,P00484,chloramphenicol O-acetyltransferase (natural arm)
+chemistry_ladder,M-CSA,934,chloramphenicol O-acetyltransferase (natural arm)
+chemistry_ladder,PDB,4H2H,4-hydroxyproline betaine 2-epimerase (natural arm)
+chemistry_ladder,UniProt,Q0FPQ4,4-hydroxyproline betaine 2-epimerase (natural arm)
+chemistry_ladder,M-CSA,940,4-hydroxyproline betaine 2-epimerase (natural arm)
+chemistry_ladder,PDB,2OLN,NikD (natural arm)
+chemistry_ladder,UniProt,Q9X9P9,NikD (natural arm)
+chemistry_ladder,M-CSA,942,NikD (natural arm)
+chemistry_ladder,PDB,4NJK,7-carboxy-7-deazaguanine synthase (natural arm)
+chemistry_ladder,UniProt,A0A0H3KB22,7-carboxy-7-deazaguanine synthase (natural arm)
+chemistry_ladder,M-CSA,943,7-carboxy-7-deazaguanine synthase (natural arm)
+chemistry_ladder,M-CSA,956,L-serine ammonia-lyase (natural arm)
+chemistry_ladder,PDB,3DG6,muconate cycloisomerase (anti) (natural arm)
+chemistry_ladder,UniProt,A0QTN8,muconate cycloisomerase (anti) (natural arm)
+chemistry_ladder,M-CSA,959,muconate cycloisomerase (anti) (natural arm)
+chemistry_ladder,PDB,4EAY,mannonate dehydratase (uxuA) (natural arm)
+chemistry_ladder,UniProt,P24215,mannonate dehydratase (uxuA) (natural arm)
+chemistry_ladder,M-CSA,963,mannonate dehydratase (uxuA) (natural arm)
+chemistry_ladder,PDB,5VSM,Viperin (natural arm)
+chemistry_ladder,UniProt,Q8CBB9,Viperin (natural arm)
+chemistry_ladder,M-CSA,965,Viperin (natural arm)
+chemistry_ladder,PDB,3UXJ,NADPH-dependent 7-cyano-7-deazaguanine reductase (natural arm)
+chemistry_ladder,UniProt,Q9KTK0,NADPH-dependent 7-cyano-7-deazaguanine reductase (natural arm)
+chemistry_ladder,M-CSA,967,NADPH-dependent 7-cyano-7-deazaguanine reductase (natural arm)
+chemistry_ladder,PDB,3MVF,nitrite dismutase (natural arm)
+chemistry_ladder,UniProt,Q94734,nitrite dismutase (natural arm)
+chemistry_ladder,M-CSA,979,nitrite dismutase (natural arm)
+chemistry_ladder,PDB,1T8U,heparan sulfate glucosamine 3-O-sulfotransferase (natural arm)
+chemistry_ladder,UniProt,Q9Y663,heparan sulfate glucosamine 3-O-sulfotransferase (natural arm)
+chemistry_ladder,M-CSA,999,heparan sulfate glucosamine 3-O-sulfotransferase (natural arm)
+chemistry_ladder,design model,design_campaign1__A1_var1,designed arm
+chemistry_ladder,design model,design_campaign1__A1_var4,designed arm
+chemistry_ladder,design model,design_campaign1__A1_var5,designed arm
+chemistry_ladder,design model,design_campaign1__A1_var6,designed arm
+chemistry_ladder,design model,design_campaign1__A6,designed arm
+chemistry_ladder,design model,design_campaign1__B7,designed arm
+chemistry_ladder,design model,design_campaign1__C4,designed arm
+chemistry_ladder,design model,design_campaign1__E4,designed arm
+chemistry_ladder,design model,design_campaign2__B10,designed arm
+chemistry_ladder,design model,design_campaign2__B5,designed arm
+chemistry_ladder,design model,design_campaign2__C5_ZETA_4,designed arm
+chemistry_ladder,design model,design_campaign2__D9,designed arm
+chemistry_ladder,design model,design_campaign2__E4,designed arm
+chemistry_ladder,design model,design_campaign2__F12,designed arm
+chemistry_ladder,design model,design_campaign2__H6_ZETA_3,designed arm
+bglb,UniProt,P22505,Beta-glucosidase B
+bglb,PDB,2JIE,BETA-GLUCOSIDASE B FROM BACILLUS POLYMYXA COMPLEXED WITH 2-F-GLUCOSE

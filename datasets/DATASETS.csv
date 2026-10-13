@@ -1,0 +1,15 @@
+dataset,name,paper_sections,unit,units_in_paper,members_listed,id_types,file,note,sha256
+zymogen_pairs_evaluation,Zymogen-mature pairs: 21-pair evaluation set,2.2.1; 3.1.1,pair,21,21,UniProt,zymogen_pairs_evaluation.csv,listed by the UniProt accession of the protein; the PDB entries of the two forms are not listed,dc4bdee97309083f4e62a55d557a459234615dc6e4c83e6c4ecf074161aac2f7
+plated_designs,Plated de novo metallohydrolase designs,2.2.2; 2.4.2; 3.1.2; 3.3.2,design,192,192,design model; PDB,plated_designs.csv,"design models of Kim et al. 2026; 16 with a reported kcat/KM, 176 without; PDB 9PYJ and 9PYL are crystal structures of one plated design",6ab57a180d8aca7e0871790623d15f7dca4c7f7329c216d4c471d236402b6e1a
+substrate_swap_enzymes,Natural enzymes of the substrate-swap experiment,2.3; 3.2,enzyme,59,59,M-CSA; PDB; UniProt,substrate_swap_enzymes.csv,"59 enzymes enter the experiment, 55 form the evaluation set; 58 distinct PDB entries",f7b8c888263c77392bae7b04c3161fcc9b0fe93a3a90e65d8bf6241dd59f4dd3
+chemistry_ladder,Systems of the re-predicted chemistry ladder,2.5; 3.4.1,system,74,74,M-CSA; PDB; UniProt; design model,chemistry_ladder_systems.csv,59 natural enzymes (the substrate-swap enzymes) and 15 designed systems,decb5cf7fc1a26bc010423dc277c33a9ecaf2208c31780d19c6d37b42a9e7657
+bglb,BglB single-point variants (one protein),2.4.1; 3.3.1,protein,1,1,UniProt; PDB,bglb.csv,protein-level identifiers only; variant-level data are not redistributed,d9dc4f9010031764f95618c72a44e28e9909c3dcec0a50c44facf648943f0273
+natural_enzymes_143,143-enzyme set of the catalytic lesion test,2.5.1; 3.4.1,enzyme,143,0,,,member list not included,
+natural_enzymes_53,53-enzyme set of the catalytic lesion test,2.5.1; 3.4.1,enzyme,53,0,,,member list not included,
+natural_enzymes_195,Pooled enzymes (143 + 52) of the catalytic lesion test,2.5.1; 3.4.1; 3.4.2,enzyme,195,0,,,member list not included,
+curated_designs_30,30 curated de novo designs (sensitivity set),2.5.1,design,30,0,,,member list not included; the 15 designed systems of the chemistry ladder are listed,
+zymogen_pairs_55,Zymogen-mature candidate pairs,2.2.1,pair,55,0,,,member list not included,
+zymogen_pairs_49,Zymogen-mature pairs scored with structure-space metrics,2.2.1; Supplement,pair,49,0,,,member list not included,
+zymogen_pairs_45,Zymogen-mature pairs with PLACER predictions,Supplement,pair,45,0,,,member list not included,
+zymogen_pairs_28,Zymogen-mature pairs re-predicted with Chai-1,2.2.1; Supplement,pair,28,0,,,member list not included; the 21 evaluation pairs are listed,
+same_state_null_pairs_96,Same-state null pairs,Supplement,pair,96,0,,,member list not included,

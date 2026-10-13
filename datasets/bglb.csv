@@ -1,0 +1,2 @@
+uniprot_accession,uniprot_entry_name,protein_name,organism,ec_number,pdb_id,pdb_title,method,resolution_A,pdb_chain,uniprot_positions_in_entry,catalytic_residues,numbering,variant_data_source
+P22505,BGLB_PAEPO,Beta-glucosidase B,Paenibacillus polymyxa,3.2.1.21,2JIE,BETA-GLUCOSIDASE B FROM BACILLUS POLYMYXA COMPLEXED WITH 2-F-GLUCOSE,X-RAY DIFFRACTION,2.3,A,2-448,Glu167 (proton donor); Glu356 (nucleophile),catalytic residues in structure numbering; variant position + 3 = structure position,D2DCure consortium (d2dcure.com); variant-level data are not redistributed
